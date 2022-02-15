@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+* I am a computational biologist working on Cancer genomics and immuogenomics and transcriptomics. 
+* I use Python primary for data wrangling and visualization; 
+* I use Python for writing Snakemake workflows and reformatting data; 
+* I am so intested in Machine learning, deep learning and large-scale data mining.
+
+Learn more about me at my [blog](https://databeauty.com/blog/)
