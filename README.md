@@ -21,3 +21,5 @@ Here are some ideas to get you started:
 * I am so intested in machine learning, deep learning and large-scale data mining.
 
 Learn more about me at my [blog](https://databeauty.com/blog/)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dolittle007&show_icons=true&theme=tokyonight)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dolittle007)](https://github.com/dolittle007)
