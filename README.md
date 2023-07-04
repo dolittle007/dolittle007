@@ -30,6 +30,11 @@ Learn more about me at my [blog](https://databeauty.com/blog/)
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ylab-hi?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
   <a href="https://github.com/dolittle007?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/dolittle007?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://databeauty.com/">
+    <img alt="views" title="Blog views" src="https://img.shields.io/badge/Blog-87689-green?style=for-the-badge&logo=Hugo"/></a>
+  
+   <a href="https://github.com/dolittle007">
+    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=dolittle007&style=for-the-badge"/></a>
 </p>
 
 ## Contact 
