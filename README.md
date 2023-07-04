@@ -15,12 +15,22 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
 * I am a computational biologist working on cancer genomics and immuogenomics and transcriptomics. 
 * I use Python primary for data wrangling and visualization; 
 * I use Python for writing Snakemake workflows and reformatting data; 
 * I am so intested in machine learning, deep learning and large-scale data mining.
 
 Learn more about me at my [blog](https://databeauty.com/blog/)
+<!-- Social badges section -->
+<!-- Badges with custom icons - https://github.com/dolittle007/custom-icon-badges -->
+<!-- View counter - https://github.com/dolittle007/Simple-View-Counter -->
+<p align="center">
+  <a href="https://github.com/dolittle007?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ylab-hi?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+  <a href="https://github.com/dolittle007?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/dolittle007?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+</p>
 
 ## Contact 
 <div> 
