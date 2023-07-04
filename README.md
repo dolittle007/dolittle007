@@ -22,3 +22,5 @@ Here are some ideas to get you started:
 
 Learn more about me at my [blog](https://databeauty.com/blog/)
 
+![Snake animation](https://github.com/dolittle007/dolittle007/blob/output/github-contribution-grid-snake.svg)
+
