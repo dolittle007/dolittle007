@@ -27,9 +27,9 @@ Learn more about me at my [blog](https://databeauty.com/)
 <!-- View counter - https://github.com/dolittle007/Simple-View-Counter -->
 <p align="center">
   <a href="https://github.com/dolittle007?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ylab-hi?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+    <img alt="total stars" title="Total stars on GitHub" src="https://img.shields.io/github/stars/ylab-hi?color=55960c&style=for-the-badge&labelColor=488207&logo=github"/></a>
   <a href="https://github.com/dolittle007?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/dolittle007?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+    <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/dolittle007?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
   <a href="https://databeauty.com/">
     <img alt="views" title="Blog views" src="https://img.shields.io/badge/Blog-87689-green?style=for-the-badge&logo=Hugo"/></a>
 </p>
