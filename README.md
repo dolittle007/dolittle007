@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 * I use Python for writing Snakemake workflows and reformatting data; 
 * I am so intested in machine learning, deep learning and large-scale data mining.
 
-Learn more about me at my [blog](https://databeauty.com/blog/)
+Learn more about me at my [blog](https://databeauty.com/)
 <!-- Social badges section -->
 <!-- Badges with custom icons - https://github.com/dolittle007/custom-icon-badges -->
 <!-- View counter - https://github.com/dolittle007/Simple-View-Counter -->
